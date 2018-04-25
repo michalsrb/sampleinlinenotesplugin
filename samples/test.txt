@@ -1,0 +1,11 @@
+This line has note in the middle of it.
+
+This line has note in the beginning of the text.
+
+This line has note past the end of the text:
+
+This line has multiple notes in it.
+
+This line has note that is modified by timer.
+
+This line has icon in it.
